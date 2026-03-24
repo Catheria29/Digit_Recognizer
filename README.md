@@ -69,6 +69,6 @@ Hyperparameter tuning
 Data augmentation
 Early stopping
 Learning rate scheduling
-📚 References
+ References
 MNIST Dataset
 TensorFlow Documentation
